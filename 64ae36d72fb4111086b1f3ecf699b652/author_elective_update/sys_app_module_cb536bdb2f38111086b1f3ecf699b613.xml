@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Final exercise">bb1ffe972fb4111086b1f3ecf699b66c</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>Customer</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>2</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-25 17:35:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cb536bdb2f38111086b1f3ecf699b613</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Customer</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Final exercise" source="x_845656_final_exe">64ae36d72fb4111086b1f3ecf699b652</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Final exercise">64ae36d72fb4111086b1f3ecf699b652</sys_scope>
+        <sys_update_name>sys_app_module_cb536bdb2f38111086b1f3ecf699b613</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-25 17:35:33</sys_updated_on>
+        <timeline_page/>
+        <title>Customer</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Final exercise">64ae36d72fb4111086b1f3ecf699b652</application>
+        <file_path/>
+        <instance_id>d83b251cdb6f0c148aea21c40596195d</instance_id>
+        <instance_name>dev102687</instance_name>
+        <name>sys_app_module_cb536bdb2f38111086b1f3ecf699b613</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Final exercise">bb1ffe972fb4111086b1f3ecf699b66c</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>SEPARATOR</link_type><map_page/><mobile_title>Customer</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>2</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-07-25 17:35:33</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>cb536bdb2f38111086b1f3ecf699b613</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Customer</sys_name><sys_overrides/><sys_package display_value="Final exercise" source="x_845656_final_exe">64ae36d72fb4111086b1f3ecf699b652</sys_package><sys_policy/><sys_scope display_value="Final exercise">64ae36d72fb4111086b1f3ecf699b652</sys_scope><sys_update_name>sys_app_module_cb536bdb2f38111086b1f3ecf699b613</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-07-25 17:35:33</sys_updated_on><timeline_page/><title>Customer</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1621424611</payload_hash>
+        <record_name>Customer</record_name>
+        <reverted_from/>
+        <source>e0ae36d72fb4111086b1f3ecf699b654</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-25 17:35:33</sys_created_on>
+        <sys_id>2483ebdb2f38111086b1f3ecf699b609</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182366dac770000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-25 17:35:33</sys_updated_on>
+        <type>Module</type>
+        <update_guid>6c83ebdb0d3811109b5a5f51c6137708</update_guid>
+        <update_guid_history>6c83ebdb0d3811109b5a5f51c6137708:1621424611</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Customer">3b146bdb2f38111086b1f3ecf699b680</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-25 17:38:14</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>bdd6ed5ae7fd49fbacf79a09972f7d31</sys_id>
+        <sys_metadata>cb536bdb2f38111086b1f3ecf699b613</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Customer</sys_name>
+        <sys_package display_value="Final exercise" source="x_845656_final_exe">64ae36d72fb4111086b1f3ecf699b652</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Final exercise">64ae36d72fb4111086b1f3ecf699b652</sys_scope>
+        <sys_scope_delete display_value="">29e456b6c28740f79d30364462b22b49</sys_scope_delete>
+        <sys_update_name>sys_app_module_cb536bdb2f38111086b1f3ecf699b613</sys_update_name>
+        <sys_update_version display_value="sys_app_module_cb536bdb2f38111086b1f3ecf699b613">2483ebdb2f38111086b1f3ecf699b609</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-25 17:38:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

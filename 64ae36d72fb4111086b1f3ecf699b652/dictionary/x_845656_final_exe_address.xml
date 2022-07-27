@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Address" max_length="40" name="x_845656_final_exe_address" sizeclass="1" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="City" max_length="40" name="city" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Country" max_length="40" name="country" read_only="true" reference="x_845656_final_exe_country" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Alpha-2 Country Code" max_length="40" name="country_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="IP Address" max_length="40" name="ip_address" type="string"/>
+        <element label="Latitude" max_length="15" name="latitude" type="decimal"/>
+        <element label="Longitude" max_length="15" name="longitude" type="decimal"/>
+        <element attributes="ignore_filter_on_new=true" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Postal Code" max_length="40" name="postal_code" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Street" max_length="40" name="street" type="string"/>
+        <element label="Street Number" max_length="40" name="street_number" type="integer"/>
+    </element>
+</database>

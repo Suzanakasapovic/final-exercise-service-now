@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="status" label="Status" language="en" table="x_845656_final_exe_order">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <help/>
+            <hint/>
+            <label>Status</label>
+            <language>en</language>
+            <name>x_845656_final_exe_order</name>
+            <plural>Status</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-25 15:20:20</sys_created_on>
+            <sys_id>3784079f2fb4111086b1f3ecf699b6b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Status</sys_name>
+            <sys_package display_value="Final exercise" source="x_845656_final_exe">64ae36d72fb4111086b1f3ecf699b652</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Final exercise">64ae36d72fb4111086b1f3ecf699b652</sys_scope>
+            <sys_update_name>sys_documentation_x_845656_final_exe_order_status_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-25 15:20:20</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

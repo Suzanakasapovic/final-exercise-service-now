@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Order" max_length="40" name="x_845656_final_exe_order" sizeclass="9" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Address" max_length="40" name="address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Customer" max_length="40" name="customer" type="string"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="List of Order Lines" max_length="1024" name="list_order_lines" reference="x_845656_final_exe_order_line" type="glide_list"/>
+        <element attributes="encode_utf8=false" label="Manager" max_length="32" name="manager" reference="sys_user" type="reference"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Final Price" max_length="15" name="price" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="requested" label="Status" max_length="40" name="status" type="string">
+            <choice>
+                <element inactive_on_update="false" label="In-progress" sequence="0" value="in-progress"/>
+                <element inactive_on_update="false" label="Requested" sequence="1" value="requested"/>
+                <element inactive_on_update="false" label="Approved" sequence="2" value="approved"/>
+                <element inactive_on_update="false" label="Rejected" sequence="3" value="rejected"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="manager"/>
+        </index>
+    </element>
+</database>

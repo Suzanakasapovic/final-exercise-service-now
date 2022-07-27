@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Address">5cf08b9b2fb4111086b1f3ecf699b656</application>
+        <filter/>
+        <name>Address</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_845656_final_exe.address_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-25 15:04:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5cf08b9b2fb4111086b1f3ecf699b658</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Address</sys_name>
+        <sys_package display_value="Final exercise" source="x_845656_final_exe">64ae36d72fb4111086b1f3ecf699b652</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Final exercise">64ae36d72fb4111086b1f3ecf699b652</sys_scope>
+        <sys_update_name>sys_ui_module_5cf08b9b2fb4111086b1f3ecf699b658</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-25 15:04:33</sys_updated_on>
+        <table>x_845656_final_exe_address</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Final exercise">64ae36d72fb4111086b1f3ecf699b652</application>
+        <file_path/>
+        <instance_id>d83b251cdb6f0c148aea21c40596195d</instance_id>
+        <instance_name>dev102687</instance_name>
+        <name>sys_ui_module_5cf08b9b2fb4111086b1f3ecf699b658</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Address">5cf08b9b2fb4111086b1f3ecf699b656</application><filter/><name>Address</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_845656_final_exe.address_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-07-25 15:04:33</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5cf08b9b2fb4111086b1f3ecf699b658</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Address</sys_name><sys_package display_value="Final exercise" source="x_845656_final_exe">64ae36d72fb4111086b1f3ecf699b652</sys_package><sys_policy/><sys_scope display_value="Final exercise">64ae36d72fb4111086b1f3ecf699b652</sys_scope><sys_update_name>sys_ui_module_5cf08b9b2fb4111086b1f3ecf699b658</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-07-25 15:04:33</sys_updated_on><table>x_845656_final_exe_address</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>-1965337135</payload_hash>
+        <record_name>Address</record_name>
+        <reverted_from/>
+        <source>e0ae36d72fb4111086b1f3ecf699b654</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-25 15:04:33</sys_created_on>
+        <sys_id>28f08b9b2fb4111086b1f3ecf699b65a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18235e36c910000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-25 15:04:33</sys_updated_on>
+        <type>Module</type>
+        <update_guid>60f08b9b85b411103068c017f029bc5a</update_guid>
+        <update_guid_history>60f08b9b85b411103068c017f029bc5a:-1965337135</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-25 18:00:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>1247d07b61574ad49e7a9964ce0845e4</sys_id>
+        <sys_metadata>5cf08b9b2fb4111086b1f3ecf699b658</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Address</sys_name>
+        <sys_package display_value="Final exercise" source="x_845656_final_exe">64ae36d72fb4111086b1f3ecf699b652</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Final exercise">64ae36d72fb4111086b1f3ecf699b652</sys_scope>
+        <sys_scope_delete display_value="">29e456b6c28740f79d30364462b22b49</sys_scope_delete>
+        <sys_update_name>sys_ui_module_5cf08b9b2fb4111086b1f3ecf699b658</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_5cf08b9b2fb4111086b1f3ecf699b658">28f08b9b2fb4111086b1f3ecf699b65a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-25 18:00:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_country_code" label="country-code" language="en" table="x_845656_final_exe_1658760891662">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_country_code</element>
+            <help/>
+            <hint/>
+            <label>country-code</label>
+            <language>en</language>
+            <name>x_845656_final_exe_1658760891662</name>
+            <plural>country-codes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-25 14:54:53</sys_created_on>
+            <sys_id>b6bef21b2fb4111086b1f3ecf699b616</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>country-code</sys_name>
+            <sys_package display_value="Final exercise" source="x_845656_final_exe">64ae36d72fb4111086b1f3ecf699b652</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Final exercise">64ae36d72fb4111086b1f3ecf699b652</sys_scope>
+            <sys_update_name>sys_documentation_x_845656_final_exe_1658760891662_u_country_code_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-25 14:54:53</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="ip_address" label="IP Address" language="en" table="x_845656_final_exe_address">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>ip_address</element>
+            <help/>
+            <hint/>
+            <label>IP Address</label>
+            <language>en</language>
+            <name>x_845656_final_exe_address</name>
+            <plural>IP Address</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-27 08:07:57</sys_created_on>
+            <sys_id>adc43f732fb0511086b1f3ecf699b658</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>IP Address</sys_name>
+            <sys_package display_value="Final exercise" source="x_845656_final_exe">64ae36d72fb4111086b1f3ecf699b652</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Final exercise">64ae36d72fb4111086b1f3ecf699b652</sys_scope>
+            <sys_update_name>sys_documentation_x_845656_final_exe_address_ip_address_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-27 08:07:57</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

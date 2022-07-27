@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_ais">
+    <sp_instance_ais action="DELETE">
+        <active>true</active>
+        <ai_search_source_filter/>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <disable_all_suggestions>false</disable_all_suggestions>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <placeholder/>
+        <roles/>
+        <search_application/>
+        <search_results_configuration/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">86bb3bef2ff0111086b1f3ecf699b640</sp_column>
+        <sp_widget display_value="Typeahead Search">fa20ec02cb31020000f8d856634c9ce9</sp_widget>
+        <spell_check_font_size>xl</spell_check_font_size>
+        <sys_class_name>sp_instance_ais</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-26 15:00:41</sys_created_on>
+        <sys_id>3da9483f2f34111086b1f3ecf699b65e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Final exercise" source="x_845656_final_exe">64ae36d72fb4111086b1f3ecf699b652</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Final exercise">64ae36d72fb4111086b1f3ecf699b652</sys_scope>
+        <sys_update_name>sp_instance_ais_3da9483f2f34111086b1f3ecf699b65e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-26 15:00:41</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_ais>
+    <sys_translated_text action="DELETE" query="documentkey=3da9483f2f34111086b1f3ecf699b65e"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Final exercise">64ae36d72fb4111086b1f3ecf699b652</application>
+        <file_path/>
+        <instance_id>d83b251cdb6f0c148aea21c40596195d</instance_id>
+        <instance_name>dev102687</instance_name>
+        <name>sp_instance_ais_3da9483f2f34111086b1f3ecf699b65e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_ais"><sp_instance_ais action="INSERT_OR_UPDATE"><active>true</active><ai_search_source_filter/><class_name/><color>default</color><css/><disable_all_suggestions>false</disable_all_suggestions><glyph/><id/><order>1</order><placeholder/><roles/><search_application/><search_results_configuration/><short_description/><size>md</size><sp_column display_value="1">86bb3bef2ff0111086b1f3ecf699b640</sp_column><sp_widget display_value="Typeahead Search">fa20ec02cb31020000f8d856634c9ce9</sp_widget><spell_check_font_size>xl</spell_check_font_size><sys_class_name>sp_instance_ais</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-07-26 15:00:41</sys_created_on><sys_id>3da9483f2f34111086b1f3ecf699b65e</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Final exercise" source="x_845656_final_exe">64ae36d72fb4111086b1f3ecf699b652</sys_package><sys_policy/><sys_scope display_value="Final exercise">64ae36d72fb4111086b1f3ecf699b652</sys_scope><sys_update_name>sp_instance_ais_3da9483f2f34111086b1f3ecf699b65e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-07-26 15:00:41</sys_updated_on><title/><url/><widget_parameters/></sp_instance_ais><sys_translated_text action="delete_multiple" query="documentkey=3da9483f2f34111086b1f3ecf699b65e"/></record_update>]]></payload>
+        <payload_hash>-952477971</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>e0ae36d72fb4111086b1f3ecf699b654</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-26 15:00:42</sys_created_on>
+        <sys_id>bda9483f2f34111086b1f3ecf699b660</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1823b0642200000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-26 15:00:42</sys_updated_on>
+        <type>Instance with Search</type>
+        <update_guid>b5a9483f8b3411107faeb7c237d46260</update_guid>
+        <update_guid_history>b5a9483f8b3411107faeb7c237d46260:-952477971</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">23b9883f2f34111086b1f3ecf699b64c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-26 15:01:05</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_ais">sp_instance_ais</sys_db_object>
+        <sys_id>1eada147ec5f4b3da50f8e9d727b6671</sys_id>
+        <sys_metadata>3da9483f2f34111086b1f3ecf699b65e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Final exercise" source="x_845656_final_exe">64ae36d72fb4111086b1f3ecf699b652</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Final exercise">64ae36d72fb4111086b1f3ecf699b652</sys_scope>
+        <sys_scope_delete display_value="">29e456b6c28740f79d30364462b22b49</sys_scope_delete>
+        <sys_update_name>sp_instance_ais_3da9483f2f34111086b1f3ecf699b65e</sys_update_name>
+        <sys_update_version display_value="sp_instance_ais_3da9483f2f34111086b1f3ecf699b65e">bda9483f2f34111086b1f3ecf699b660</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-26 15:01:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
